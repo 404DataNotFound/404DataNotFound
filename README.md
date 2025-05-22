@@ -1,6 +1,6 @@
-## Hi there 👋 
+### Hi there 👋 
 
-I'am a Python newbie
+## I'm a Python newbie
 
 >> currently wrestling with indentation errors 🧐
 >> Googling “How to Python” like it’s my full-time job 🔥
